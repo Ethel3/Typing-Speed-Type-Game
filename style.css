@@ -14,3 +14,28 @@ body{
     min-height: 100vh;
     background: #17A2B8;
   }
+  ::selection{
+    color: #fff;
+    background: #17A2B8;
+  }
+  .wrapper{
+    width: 770px;
+    padding: 35px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px rgba(0,0,0,0.05);
+  }
+  .wrapper .input-field{
+    opacity: 0;
+    z-index: -999;
+    position: absolute;
+  }
+  .wrapper .content-box{
+    padding: 13px 20px 0;
+    border-radius: 10px;
+    border: 1px solid #bfbfbf;
+  }
+  .content-box .typing-text{
+    overflow: hidden;
+    max-height: 256px;
+  }
