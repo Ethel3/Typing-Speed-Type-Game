@@ -43,7 +43,7 @@ body{
   width: 0;
 }
 .typing-text p{
-  font-size: 21px;
+  font-size: 22px;
   text-align: justify;
   letter-spacing: 1px;
   word-break: break-all;
@@ -165,7 +165,7 @@ li:not(:first-child) span{
   }
   .result-details li p, 
   .result-details li span{
-    font-size: 17px;
+    font-size: 18px;
   }
 }
 @media (max-width: 518px) {
