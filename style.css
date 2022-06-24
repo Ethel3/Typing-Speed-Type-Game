@@ -165,7 +165,7 @@ li:not(:first-child) span{
   }
   .result-details li p, 
   .result-details li span{
-    font-size: 19px;
+    font-size: 20px;
   }
 }
 @media (max-width: 518px) {
@@ -173,7 +173,7 @@ li:not(:first-child) span{
     padding: 10px 15px 0;
   }
   .typing-text p{
-    font-size: 19px;
+    font-size: 20px;
   }
   .result-details li{
     margin-bottom: 10px;
