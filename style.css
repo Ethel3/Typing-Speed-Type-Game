@@ -61,7 +61,7 @@ body{
   border-radius: 4px;
 }
 .typing-text p span.active{
-  color: #00ff00;
+  color: #2f00ff;
 }
 .typing-text p span.active::before{
   position: absolute;
