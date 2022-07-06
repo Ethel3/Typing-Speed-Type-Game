@@ -147,7 +147,7 @@ li:not(:first-child) span{
     max-height: 100%;
   }
   .typing-text p{
-    font-size: 19px;
+    font-size: 20px;
     text-align: left;
   }
   .content button{
