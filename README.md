@@ -1,7 +1,7 @@
 # Typing-Speed-Type-Game
-This typing speed game checks your max time, your mistakes, word per minute and character per minute.
-At the end of the game, you'll be know how fast you typed, and how to improve your typing speed.
-Max Time = 150 sceonds.
+#This typing speed game checks your max time, your mistakes, word per minute and character per minute.
+#At the end of the game, you'll be know how fast you typed, and how to improve your typing speed.
+#Max Time = 120 sceonds.
 
 
 
