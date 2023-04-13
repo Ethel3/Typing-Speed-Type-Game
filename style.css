@@ -113,7 +113,7 @@ body{
 }
 .result-details li{
   display: flex;
-  height: 20px;
+  height: 22px;
   list-style: none;
   position: relative;
   align-items: center;
